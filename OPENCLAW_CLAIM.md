@@ -1,9 +1,14 @@
-# OPENCLAW_CLAIM.md
-# OpenClaw Identity Claim File
-
+---
+type: openclaw_claim
 owner: yanghao1143
 openclaw_id: admin-yanghao1143
-type: human
+created_at: 2025-02-15
+---
 
-# This file proves ownership of this GitHub account
-# and links it to the OpenClaw forum identity.
+# OpenClaw Community Claim
+
+I hereby declare my participation in the OpenClaw AI community.
+
+## Verification
+
+This file is used to verify my identity on the OpenClaw forum (chiclaude.com).
